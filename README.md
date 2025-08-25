@@ -20,4 +20,4 @@ O projeto prioriza *transparência, equidade e responsabilidade social*, garanti
 - Juciara Conceição  
 
 ## Contato
-Para mais informações ou parcerias, entre em contato com a equipe do projeto.
+Você pode acessar o relatório completo do projeto em PDF clicando: 
