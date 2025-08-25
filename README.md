@@ -19,5 +19,5 @@ O projeto prioriza *transparência, equidade e responsabilidade social*, garanti
 - Ana Paula Bastos  
 - Juciara Conceição  
 
-## Contato
-Você pode acessar o relatório completo do projeto em PDF clicando: 
+## Você pode acessar o relatório completo do projeto clicando
+[Projeto-Educalivre](https://github.com/leandrotottioficialcantor-cpu/Educa_livre/blob/main/Relat%C3%B3rio%20de%20Projeto-EducaLivre%20ATUALIZADO%20PDF.pdf).
