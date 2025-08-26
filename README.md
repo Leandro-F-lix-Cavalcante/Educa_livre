@@ -20,4 +20,4 @@ O projeto prioriza *transparência, equidade e responsabilidade social*, garanti
 - Juciara Conceição  
 
 ## Você pode acessar o relatório completo do projeto clicando
-[Projeto-Educalivre](https://github.com/Leandro-F-lix-Cavalcante/Leandro-F-lix-Cavalcante).
+[Projeto-Educalivre](https://github.com/Leandro-F-lix-Cavalcante/Educa_livre/blob/main/Relat%C3%B3rio%20de%20Projeto-EducaLivre.pdf).
